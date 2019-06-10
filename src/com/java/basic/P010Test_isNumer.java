@@ -26,7 +26,7 @@ public class P010Test_isNumer {
 	static boolean isStringDouble(String str){
 	
 			try{
-				//Á¤ÁØÀÏÂ¯
+				//Á¤ÁØÀÏÂ¯ddd
 				sdfsdf
 				Double.parseDouble(str); 
 				return true; 
