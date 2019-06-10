@@ -27,7 +27,7 @@ public class P010Test_isNumer {
 	
 			try{
 				//Á¤ÁØÀÏÂ¯
-				
+				sdfsdf
 				Double.parseDouble(str); 
 				return true; 
 			}catch(Exception e){
